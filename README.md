@@ -4,8 +4,8 @@ Bot for Stoat.
 
 ## Clone the repository
 ```bash
-git clone https://github.com/Emosewaj/gta6-countdown.git
-cd gta6-countdown
+git clone https://github.com/Emosewaj/stoat-gta6-countdown.git
+cd stoat-gta6-countdown
 ```
 
 ## Install dependencies
@@ -27,7 +27,7 @@ node src/index.mjs
 Install pm2 globally and start the bot:
 
 ```bash
-cd gta6-countdown
+cd stoat-gta6-countdown
 npm install -g pm2
-pm2 start src/index.mjs --name "gta6-countdown"
+pm2 start src/index.mjs --name "stoat-gta6-countdown"
 ```
