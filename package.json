@@ -1,0 +1,23 @@
+{
+  "name": "gta6-countdown",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.mjs",
+  "scripts": {
+    "start": "cls && node src/index.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emosewaj/stoat-gta6-countdown.git"
+  },
+  "author": "Emosewaj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Emosewaj/stoat-gta6-countdown/issues"
+  },
+  "homepage": "https://github.com/Emosewaj/stoat-gta6-countdown#readme",
+  "dependencies": {
+    "stoat.js": "^7.3.5",
+    "ws": "^8.18.3"
+  }
+}
